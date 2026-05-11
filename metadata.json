@@ -1,0 +1,7 @@
+{
+  "name": "GestureDraw Whiteboard",
+  "description": "A high-performance, gesture-controlled digital whiteboard for teachers using MediaPipe Hand Tracking. Control markers, highlighters, and erasers with natural hand movements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
